@@ -11,7 +11,7 @@ const Sectionb = () => {
             <h3 className="section2" style={{marginLeft:"50px",textAlign:"center",marginBottom:"50px"}}> 
             Choose the top tweets that you absolutely admire to create your version of their #TweetsFromHome wall and<br></br> simply share on Twitter. 
             </h3>
-            <span style={{marginLeft:"40%",marginBottom:"2%",display:"flex" ,width:"350px",backgroundColor:"white"}} class="input-group-text " id="search-addon">
+            <span style={{marginLeft:"40%",marginBottom:"1%",display:"flex" ,width:"350px",backgroundColor:"white"}} class="input-group-text " id="search-addon">
           <BsSearch />&nbsp;&nbsp;
            <br></br><span>
                <input  id="searchbar" type="search" style={{backgroundColor:"transparent",width:"300px"}} 

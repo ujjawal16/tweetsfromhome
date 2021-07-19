@@ -5,9 +5,9 @@ const Section = () => {
     return (
         <section className="section">
         <div >
-            <h1 style={{color:'darkblue',textAlign:'center'}}><span style={{color:"lightblue"}}>Creators</span> are powerful</h1>
+            <h1 style={{marginBottom:"-120px", color:'darkblue',textAlign:'center'}}><span style={{color:"lightblue"}}>Creators</span> are powerful</h1>
         </div>
-        <div className="row">
+        <div className="rows">
             
             <div class="column1" >
             <img alt="img" src={tweet}/>

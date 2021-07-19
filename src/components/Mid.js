@@ -9,22 +9,12 @@ const Mid = () => {
             <br></br>
             <br></br>
         <div class="container">
-       
-	<div class="row">
-        
-		<br></br>
-	</div>
+    
 	
-	<div class="block">
-        
-      <div class="row">
-          
-        <div class="col">
-          <img alt="img" class="img-right" src={comp} />
-         
+      <div class="row1">
           <div class="content-heading">
               <br></br><br></br><br></br><br></br>
-              <h1 style={{ marginLeft:"100px" , zIndex:"1" , color:"darkblue"}}>Become a true  <span style={{color:'lightblue'}} >SUPERFAN</span> </h1></div>
+              <h1 style={{ marginLeft:"100px" , zIndex:"1" , color:"darkblue"}}>Become a true  <span style={{color:'lightblue'}} >SUPERFAN</span> </h1>
           <p style={{ marginLeft:"100px"}}>Support your favourite creator by sharing their #TweetsFromHome wall with<br></br> your loved ones and grow their community.
           <br/>
           <br/>
@@ -40,15 +30,11 @@ const Mid = () => {
     class="btn btn-primary btn-lg float-right">View Tweets from Home</button>
 
           </p>
-          
+          </div>
+          <div class="cols1">
+          <img alt="img" class="img-right" src={comp} />
+         </div>
         </div>
-        
-
-     </div>
-     
-     <br/>
-     
-    </div>
     
 </div>
 </section>
